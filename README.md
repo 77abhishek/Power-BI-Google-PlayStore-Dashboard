@@ -2,8 +2,7 @@
 This repository contains an interactive Power BI dashboard created using the Google Play Store Dataset along with the User Review Dataset. The goal of this dashboard is to provide insights into app characteristics, usage patterns, user sentiment, and ratings distribution available on the Google Play Store.
 
 
-📊 Dashboard Highlights
-**Interactive visualizations to explore:**
+📊 **Dashboard Highlights**
 
    a.)App categories, types (Free/Paid), and content ratings
 
